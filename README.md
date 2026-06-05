@@ -28,29 +28,29 @@
 
 ## 🎮 PLAYER STATS
 
-```
-╔══════════════════════════════════════════════════════╗
-║           ⚔  HARSHAVARTHAN S  ⚔                     ║
-║      CLASS : Researcher  x  Engineer  x  Builder     ║
-╠══════════════════════════════════════════════════════╣
-║  LEVEL    :  M.E. CSE @ SSN  (CGPA 8.4)             ║
-║  GUILD    :  SSN College of Engineering, Chennai     ║
-║  LOCATION :  Chennai, India                          ║
-║  SPEC     :  Clinical NLP · Multimodal AI · SLAM     ║
-╠══════════════════════════════════════════════════════╣
-║  PAPERS   :  ████████████████████  4  [IEEE + T&F]  ║
-║  AWARDS   :  ████████████████░░░░  Best Paper @ SRM ║
-║  RESEARCH :  ████████████████░░░░  SLAM + NLP       ║
-║  INTERN   :  ████████████████████  NIT T + Avivo    ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-M.E.%20CSE%20CGPA%208.4-%2300D4FF?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Papers-4%20Published-%23FFD700?style=for-the-badge&logo=google-scholar&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Award-Best%20Paper%20SRM-%23FF4500?style=for-the-badge&logo=trophy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grant-IFPS%20Research%20Funded-%2300FF88?style=for-the-badge"/>
-</p>
+| 🧬 ATTRIBUTE | 📊 VALUE | 🏅 RANK |
+|:---:|:---:|:---:|
+| ⚔️ **CLASS** | Researcher × Engineer × Builder | `ELITE` |
+| 🎓 **LEVEL** | M.E. CSE @ SSN — CGPA 8.4 | `GRADUATE` |
+| 🏛️ **GUILD** | SSN College of Engineering, Chennai | `ACTIVE` |
+| 📍 **LOCATION** | Chennai, India | `IND-SERVER` |
+| ⚡ **SPECIALTY** | Clinical NLP · Multimodal AI · SLAM | `LEGENDARY` |
+
+</div>
+
+<div align="center">
+
+| 📜 STAT | 🔋 XP BAR | 📈 SCORE |
+|:---:|:---:|:---:|
+| 📄 PAPERS | `██████████████████████ 100%` | **4** IEEE + T&F |
+| 🏆 AWARDS | `████████████████░░░░░░  80%` | Best Paper @ SRM |
+| 🔬 RESEARCH | `████████████████░░░░░░  80%` | SLAM + Clinical NLP |
+| 💼 INTERNSHIPS | `██████████████████████ 100%` | NIT Trichy + Avivo AI |
+| 💰 GRANTS | `████████████████████░░  90%` | IFPS Funded @ SSN |
+
+</div>
 
 ---
 
@@ -257,14 +257,32 @@ STATUS     : ✅ PUBLISHED @ ACROSET 2024 (IEEE SCOPUS)
 
 ## 📊 BATTLE STATS
 
+<div align="center">
+
+| 🏅 ACHIEVEMENT | 🔢 COUNT | 🎖️ BADGE |
+|:---:|:---:|:---:|
+| 📄 Peer-Reviewed Papers | **4** | ![Papers](https://img.shields.io/badge/4%20Papers-Published-FFD700?style=flat-square&logo=google-scholar&logoColor=white) |
+| 🏆 Best Paper Awards | **1** | ![Award](https://img.shields.io/badge/Best%20Paper-SRM%20University-FF4500?style=flat-square) |
+| 🔬 Research Grants | **1** | ![Grant](https://img.shields.io/badge/IFPS-Research%20Funded-00C896?style=flat-square) |
+| 💼 Internships | **4** | ![Intern](https://img.shields.io/badge/4%20Internships-Completed-00D4FF?style=flat-square) |
+| 🎓 CGPA (M.E.) | **8.4** | ![CGPA](https://img.shields.io/badge/CGPA-8.4%20%2F%2010-blueviolet?style=flat-square) |
+| 🌐 IELTS Band | **6.5** | ![IELTS](https://img.shields.io/badge/IELTS-Band%206.5-0052CC?style=flat-square) |
+| 🏅 Hackathon Wins | **1** | ![Hack](https://img.shields.io/badge/CODEX-1st%20Place-FF6B35?style=flat-square) |
+
+</div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshav111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=FFD700&bg_color=0d1117&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshav111&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=0d1117" />
+  <img src="https://img.shields.io/badge/IEEE%20Xplore-2%20Papers-%230068B5?style=for-the-badge&logo=ieee&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Taylor%20%26%20Francis-1%20Paper%20In%20Press-%23D00000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CEUR%20MediaEval-1%20Paper-%23FF9900?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshav111&theme=tokyonight&hide_border=true&fire=FFD700&ring=00D4FF&currStreakLabel=00D4FF" />
+  <img src="https://img.shields.io/badge/Python-Expert-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-Advanced-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Advanced-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Proficient-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-Proficient-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
