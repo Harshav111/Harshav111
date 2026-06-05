@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&lines=Clinical+NLP+Researcher+%F0%9F%A7%A0;Multimodal+AI+Builder+%F0%9F%A4%96;Robotics+%26+SLAM+Engineer+%F0%9F%9B%B8;3%C3%97+IEEE+%2F+Taylor+%26+Francis+Author+%F0%9F%93%84;Best+Paper+Award+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&lines=Clinical+NLP+Researcher+%F0%9F%A7%A0;Multimodal+AI+Builder+%F0%9F%A4%96;Robotics+%26+SLAM+Engineer+%F0%9F%9B%B8;3x+IEEE+%2F+Taylor+%26+Francis+Author+%F0%9F%93%84;Best+Paper+Award+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   &nbsp;
   <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshavarthan-s"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:harshavarthansami@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -27,12 +27,6 @@
 ---
 
 ## 🎮 PLAYER STATS
-
-<div align="center">
-
-![player-stats](https://github-readme-stats.vercel.app/api?username=harshavarthansami&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FFD700&bg_color=0d1117&text_color=ffffff)
-
-</div>
 
 ```
 ╔══════════════════════════════════════════════════════╗
@@ -50,6 +44,13 @@
 ║  INTERN   :  ████████████████████  NIT T + Avivo    ║
 ╚══════════════════════════════════════════════════════╝
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-M.E.%20CSE%20CGPA%208.4-%2300D4FF?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Papers-4%20Published-%23FFD700?style=for-the-badge&logo=google-scholar&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Award-Best%20Paper%20SRM-%23FF4500?style=for-the-badge&logo=trophy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grant-IFPS%20Research%20Funded-%2300FF88?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -90,7 +91,7 @@ Researcher and engineer fusing **Clinical NLP**, **Multimodal AI**, and **Roboti
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/BioBERT-%230467DF.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CLIP%20+%20FAISS-%23412991.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CLIP+FAISS-%23412991.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DINOv2-%2300D4FF.svg?style=for-the-badge"/>
 </p>
 
@@ -131,9 +132,9 @@ Researcher and engineer fusing **Clinical NLP**, **Multimodal AI**, and **Roboti
 ### 🤖 Robotics & SLAM
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ORB--SLAM3-%23000000.svg?style=for-the-badge&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/ORB--SLAM3-%23222222.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DINOv2-%23412991.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GNN%20+%20Transformers-%2300D4FF.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GNN+Transformers-%2300D4FF.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
@@ -171,7 +172,7 @@ Researcher and engineer fusing **Clinical NLP**, **Multimodal AI**, and **Roboti
 
 ### 🚗 `[COMPLETED]` Summer Intern — Hyundai Motors India Limited *(Jun – Jul 2023)*
 - 🎫 Engineered **Automatic Ticket Management System** (Ignition · MS SQL · Python)
-- 📊 Built real-time analytics frontend with **Qlik Sense** for manufacturing insights
+- 📊 Built real-time analytics with **Qlik Sense** for manufacturing insights
 - 🏭 Hands-on PLC & LADAR exposure on plant floor
 
 ---
@@ -182,7 +183,7 @@ Researcher and engineer fusing **Clinical NLP**, **Multimodal AI**, and **Roboti
 > 🏅 *IFPS Institutional Research Grant @ SSN College of Engineering*
 ```
 OBJECTIVE  : >40% reduction in Absolute Trajectory Error (ATE)
-HARDWARE   : Jetson Orin Nano  |  LATENCY: <15ms runtime overhead
+HARDWARE   : Jetson Orin Nano  |  LATENCY: <15ms
 STACK      : ORB-SLAM3 · DINOv2 · GNN/Transformers · PyTorch · OpenCV
 STATUS     : 🟢 ACTIVE
 ```
@@ -191,7 +192,7 @@ STATUS     : 🟢 ACTIVE
 > 📄 *IEEE Xplore — DOI: [10.1109/ISCS69371.2025.11385867](https://doi.org/10.1109/ISCS69371.2025.11385867)*
 ```
 TARGETS    : Neonatal Sepsis · Marasmus · Tuberculosis
-MODEL      : BioBERT + Bi-LSTM Hybrid Pipeline  |  MULTI-LANGUAGE SUPPORT
+MODEL      : BioBERT + Bi-LSTM Hybrid  |  MULTI-LANGUAGE
 STACK      : TensorFlow · Keras · Docker · Kubernetes
 STATUS     : ✅ PUBLISHED @ ISCS 2025, Delhi (IEEE)
 ```
@@ -200,7 +201,7 @@ STATUS     : ✅ PUBLISHED @ ISCS 2025, Delhi (IEEE)
 > 🏆 *Best Paper Award @ SRM | Taylor & Francis (in press)*
 ```
 TARGETS    : Status Asthmaticus · Diabetic Ketoacidosis
-ACCURACY   : 90% severity-prediction accuracy
+ACCURACY   : 90% severity-prediction
 STATUS     : ✅ BEST PAPER AWARD  |  📖 T&F IN PRESS
 ```
 
@@ -212,9 +213,9 @@ STATUS     : ✅ PUBLISHED @ MediaEval 2025
 ```
 
 ### 🛡️ `[PUBLISHED]` U2R Attack Detection — CNN AlexNet vs. SVM *(Apr 2024)*
-> 📄 *IEEE SCOPUS-Indexed — DOI: [10.1109/ACROSET62108.2024.10743609](https://doi.org/10.1109/ACROSET62108.2024.10743609)*
+> 📄 *IEEE SCOPUS — DOI: [10.1109/ACROSET62108.2024.10743609](https://doi.org/10.1109/ACROSET62108.2024.10743609)*
 ```
-MODEL      : CNN AlexNet vs SVM baseline comparison
+MODEL      : CNN AlexNet vs SVM
 STACK      : TensorFlow · Keras · Scikit-learn
 STATUS     : ✅ PUBLISHED @ ACROSET 2024 (IEEE SCOPUS)
 ```
@@ -256,13 +257,15 @@ STATUS     : ✅ PUBLISHED @ ACROSET 2024 (IEEE SCOPUS)
 
 ## 📊 BATTLE STATS
 
+> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username for the stats to load!**
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshavarthansami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=FFD700" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavarthansami&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshav111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=FFD700&bg_color=0d1117&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshav111&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshavarthansami&theme=tokyonight&hide_border=true&fire=FFD700&ring=00D4FF&currStreakLabel=00D4FF" />
+  <img src="https://streak-stats.demolab.com?user=Harshav111&theme=tokyonight&hide_border=true&fire=FFD700&ring=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
 ---
