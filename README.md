@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshavarthansami&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=harshav111&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/Publications-4-FFD700?style=for-the-badge&logo=google-scholar&logoColor=white" />
   &nbsp;
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/harshavarthansami"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/harshav111"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   &nbsp;
   <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
   &nbsp;
@@ -257,15 +257,14 @@ STATUS     : ✅ PUBLISHED @ ACROSET 2024 (IEEE SCOPUS)
 
 ## 📊 BATTLE STATS
 
-> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username for the stats to load!**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshav111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=FFD700&bg_color=0d1117&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshav111&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshav111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=FFD700&bg_color=0d1117&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshav111&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshav111&theme=tokyonight&hide_border=true&fire=FFD700&ring=00D4FF&currStreakLabel=00D4FF" />
+  <img src="https://streak-stats.demolab.com?user=harshav111&theme=tokyonight&hide_border=true&fire=FFD700&ring=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
 ---
