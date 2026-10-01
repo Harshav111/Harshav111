@@ -1,297 +1,189 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:003366,100:00aaff&height=200&section=header&text=Harshavarthan%20S&fontSize=50&fontColor=00D4FF&fontAlignY=38&desc=M.E.%20CSE%20%40%20SSN%20College%20of%20Engineering%2C%20Chennai&descAlignY=58&descColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&lines=Clinical+NLP+Researcher+%F0%9F%A7%A0;Multimodal+AI+Builder+%F0%9F%A4%96;Robotics+%26+SLAM+Engineer+%F0%9F%9B%B8;3x+IEEE+%2F+Taylor+%26+Francis+Author+%F0%9F%93%84;Best+Paper+Award+Winner+%F0%9F%8F%86" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshav111&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Publications-4-FFD700?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/IEEE%20%7C%20Taylor%20%26%20Francis-Peer%20Reviewed-red?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshav111"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/harshavarthan-s"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:harshavarthansami@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 🎮 PLAYER STATS
-
 <div align="center">
 
-| 🧬 ATTRIBUTE | 📊 VALUE | 🏅 RANK |
-|:---:|:---:|:---:|
-| ⚔️ **CLASS** | Researcher × Engineer × Builder | `ELITE` |
-| 🎓 **LEVEL** | M.E. CSE @ SSN — CGPA 8.4 | `GRADUATE` |
-| 🏛️ **GUILD** | SSN College of Engineering, Chennai | `ACTIVE` |
-| 📍 **LOCATION** | Chennai, India | `IND-SERVER` |
-| ⚡ **SPECIALTY** | Clinical NLP · Multimodal AI · SLAM | `LEGENDARY` |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0b3d5c&height=170&text=Harshavarthan%20S&fontSize=48&fontColor=e6edf3&fontAlignY=42&desc=clinical%20NLP%20%C2%B7%20multimodal%20AI%20%C2%B7%20robot%20perception&descSize=16&descAlignY=68&descColor=7dd3fc" width="100%"/>
 
-</div>
+<sub><code>README.md</code> &nbsp;·&nbsp; <code>cs.CL</code> <code>cs.CV</code> <code>cs.RO</code> &nbsp;·&nbsp; rev. October 2026</sub>
 
-<div align="center">
+**Harshavarthan S**<sup>1</sup><br/>
+<sub><sup>1</sup> Department of Computer Science & Engineering, SSN College of Engineering, Chennai, India</sub>
 
-| 📜 STAT | 🔋 XP BAR | 📈 SCORE |
-|:---:|:---:|:---:|
-| 📄 PAPERS | `██████████████████████ 100%` | **4** IEEE + T&F |
-| 🏆 AWARDS | `████████████████░░░░░░  80%` | Best Paper @ SRM |
-| 🔬 RESEARCH | `████████████████░░░░░░  80%` | SLAM + Clinical NLP |
-| 💼 INTERNSHIPS | `██████████████████████ 100%` | NIT Trichy + Avivo AI |
-| 💰 GRANTS | `████████████████████░░  90%` | IFPS Funded @ SSN |
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&width=620&lines=Reading+clinical+notes+in+more+than+one+language.;Teaching+a+Jetson+to+know+where+it+is.;4+published+works+%C2%B7+1+in+press+%C2%B7+1+Best+Paper." alt="typing"/></a>
+
+<a href="https://in.linkedin.com/in/harshavarthan-s"><img src="https://img.shields.io/badge/LinkedIn-harshavarthan--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshavarthansami@gmail.com"><img src="https://img.shields.io/badge/Email-harshavarthansami%40gmail.com-c2410c?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://doi.org/10.1201/9781003777458-12"><img src="https://img.shields.io/badge/Latest-CRC%20Press%20Chapter%2012-0b3d5c?style=flat-square&logo=bookstack&logoColor=white"/></a>
+<!-- Add your Scholar profile: replace YOUR_ID and uncomment
+<a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
+-->
 
 </div>
 
 ---
 
-## 🧑‍🎓 EDUCATION
+> **Abstract.** I work on two problems that look unrelated and aren't. The first is clinical: rural hospitals in Tamil Nadu often have a general practitioner and no specialist, so I build decision-support models (BioBERT + Bi-LSTM, multilingual) that read physician notes and flag conditions like neonatal sepsis, marasmus and tuberculosis before they are missed. The second is robotic: keeping a SLAM system on a Jetson Orin Nano on track when the world gets messy, by bringing self-supervised features (DINOv2) and graph/transformer matching into ORB-SLAM3. Both reduce to one question — *how do you make a model trustworthy on cheap hardware, in places where nobody is around to fix it?*
+>
+> **Keywords —** clinical NLP · decision support · multimodal retrieval · visual SLAM · edge AI
 
-| 🎓 Degree | 🏛️ Institution | 📅 Year | ⭐ CGPA |
-|-----------|---------------|---------|--------|
-| **M.E. Computer Science & Engineering** | SSN College of Engineering, Chennai | 2025–2027 | **8.4** |
-| **B.Tech CSE — Data Science Specialization** | Periyar Maniammai Deemed University | 2021–2025 | **7.9** |
+<br/>
+
+```mermaid
+flowchart LR
+    subgraph A["Track A · Clinical NLP"]
+        direction LR
+        A1["Physician notes<br/>multilingual, noisy"] --> A2["BioBERT + Bi-LSTM"] --> A3["Diagnostic support<br/>for rural clinics"]
+    end
+    subgraph B["Track B · Robot perception"]
+        direction LR
+        B1["Camera stream<br/>Jetson Orin Nano"] --> B2["ORB-SLAM3 + DINOv2<br/>+ GNN / Transformer"] --> B3["Robust trajectory<br/>under 15 ms / frame"]
+    end
+    A2 -.-|"shared idea: learned representations on constrained hardware"| B2
+```
+
+<p align="center"><sub><b>Fig. 1.</b> Two research tracks, one underlying question.</sub></p>
 
 ---
 
-## 🧠 ABOUT ME
+### § 1 &nbsp; Ongoing work
 
-> *"Building at the frontier of Clinical AI & Autonomous Systems"*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Researcher and engineer fusing **Clinical NLP**, **Multimodal AI**, and **Robotic SLAM** into real-world impact. Currently pushing a self-supervised SLAM system on Jetson Orin Nano hardware and advancing multilingual diagnostic AI for rural healthcare in India. Published across **IEEE**, **CEUR/MediaEval**, and **Taylor & Francis**. Institutional research grant holder. Best Paper Award winner.
+**Neural-SLAM-Zero** &nbsp;<sub>`Jan 2026 – present`</sub>
+
+Self-supervised visual SLAM for edge robots, funded by an **IFPS Institutional Research Grant** at SSN.
+
+```yaml
+goal:     ">40% lower ATE vs. ORB-SLAM3 baseline"
+budget:   "<15 ms per frame"
+hardware: Jetson Orin Nano
+stack:    [ORB-SLAM3, DINOv2, GNN, Transformers, PyTorch, OpenCV]
+```
+
+</td>
+<td width="50%" valign="top">
+
+**Centre for Digital Infrastructure, NIT Trichy** &nbsp;<sub>`Summer 2026`</sub>
+
+Building internal software for the institute's digital infrastructure, end to end: requirements, implementation, testing and production deployment of institution-specific web applications.
+
+```yaml
+role:  Summer Intern
+scope: full development lifecycle
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚔️ SKILL TREE
+### § 2 &nbsp; Publications
 
-### 🖥️ Languages
+**[1]** &nbsp;**Harshavarthan S.**, Ahmed Hafeel, Sabareeswaran, Kavitha T. &nbsp;*An AI-Driven Approach for Enhancing Patient Healthcare in Resource-Constrained Rural Areas.* &nbsp;In A. K. Tyagi (Ed.), **Role of Machine Learning in IoT-Cloud Enabled Healthcare: Prospects, Challenges and Opportunities**, Chapter 12, pp. 222–241. CRC Press (Taylor & Francis Group). &nbsp;<sub>An AI clinical decision support system combining BERT, Random Forest and LSTM classifiers, evaluated on real patient interactions from rural hospitals in Tamil Nadu.</sub><br/>
+[![DOI](https://img.shields.io/badge/DOI-10.1201%2F9781003777458--12-0b3d5c?style=flat-square)](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003777458-12/ai-driven-approach-enhancing-patient-healthcare-resource-constrained-rural-areas-harshavarthan-ahmed-hafeel-sabareeswaran-kavitha)
+![CRC Press](https://img.shields.io/badge/CRC%20Press-Book%20Chapter-c2410c?style=flat-square)
 
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bash&theme=dark" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
+**[2]** &nbsp;*Multilingual AI-Driven Clinical Decision Support System: Hybrid BioBERT & Bi-LSTM.* &nbsp;**IEEE ISCS 2025**, Delhi (IEEE Xplore). &nbsp;<sub>Diagnosis support for neonatal sepsis, marasmus and tuberculosis; containerised with Docker and Kubernetes.</sub><br/>
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FISCS69371.2025.11385867-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ISCS69371.2025.11385867)
 
-### 🧠 AI / ML / DL
+**[3]** &nbsp;*NewsImages: CLIP–FAISS Retrieval and Diffusion-Based Thumbnail Generation.* &nbsp;**MediaEval 2025**, CEUR Workshop Proceedings.<br/>
+[![Paper](https://img.shields.io/badge/PDF-MediaEval%202025-6d28d9?style=flat-square)](https://2025.multimediaeval.com/paper46.pdf)
 
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BioBERT-%230467DF.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CLIP+FAISS-%23412991.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DINOv2-%2300D4FF.svg?style=for-the-badge"/>
-</p>
+**[4]** &nbsp;*AI-Driven Patient Outcome Enhancement.* &nbsp;**Taylor & Francis** (in press). &nbsp;<sub>Severity prediction for status asthmaticus and diabetic ketoacidosis, 90% accuracy.</sub><br/>
+![Best Paper](https://img.shields.io/badge/%F0%9F%8F%86%20Best%20Paper-Next%20Gen%20Intl.%20Conf.%2C%20SRM%202025-b45309?style=flat-square)
+![In press](https://img.shields.io/badge/status-in%20press-6b7280?style=flat-square)
 
-### 🌐 Web / Backend
+**[5]** &nbsp;*User-to-Root Attack Detection: CNN AlexNet vs. SVM.* &nbsp;**IEEE ACROSET 2024** (Scopus-indexed).<br/>
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FACROSET62108.2024.10743609-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ACROSET62108.2024.10743609)
 
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,django,fastapi,nodejs&theme=dark" /></a>
-</p>
+<details>
+<summary><sub><b>Cite [1] — BibTeX</b></sub></summary>
 
-### 🗄️ Databases
+```bibtex
+@incollection{harshavarthan2027rural,
+  author    = {Harshavarthan, S. and Hafeel, Ahmed and {Sabareeswaran} and Kavitha, T.},
+  title     = {An AI-Driven Approach for Enhancing Patient Healthcare in Resource-Constrained Rural Areas},
+  booktitle = {Role of Machine Learning in IoT-Cloud Enabled Healthcare: Prospects, Challenges and Opportunities},
+  editor    = {Tyagi, Amit Kumar},
+  publisher = {CRC Press},
+  chapter   = {12},
+  pages     = {222--241},
+  year      = {2027},
+  doi       = {10.1201/9781003777458-12}
+}
+```
 
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase,kafka&theme=dark" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux&theme=dark" /></a>
-</p>
-
-### 🔧 Tools & Analytics
-
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/RStudio-%2375AADB.svg?style=for-the-badge&logo=rstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qlik%20Sense-%23009848.svg?style=for-the-badge&logo=qlik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ignition-%23CE0037.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### 🤖 Robotics & SLAM
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ORB--SLAM3-%23222222.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DINOv2-%23412991.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GNN+Transformers-%2300D4FF.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
-
-### 📚 Coursework Unlocked
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300D4FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-%23009FE3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-%23764ABC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBMS-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-%23007ACC?style=for-the-badge"/>
-</p>
+</details>
 
 ---
 
-## 💼 QUEST HISTORY
+### § 3 &nbsp; Experience
 
-### 🏛️ `[ACTIVE]` Summer Intern — Centre for Digital Infrastructure, NIT Trichy *(May 2026 – Present)*
-- 🛠️ Developing internal software systems for NIT Trichy's digital infrastructure
-- 🚀 Designing and deploying institution-specific web apps — full dev lifecycle
-- ✅ Requirements → implementation → testing → production deployment
+| When | Where | What |
+|:--|:--|:--|
+| `2026` | **NIT Trichy** — Centre for Digital Infrastructure | Summer intern · internal web systems, full lifecycle |
+| `2024` | **Avivo AI LLC** | Junior software developer · LLM + RAG pipelines, vector search, React front ends for real-time AI |
+| `2023–24` | **SUNFLEX Global Energy** | System administrator · uptime, DNS, domains, task automation |
+| `2023` | **Hyundai Motor India** | Summer intern · automatic ticket management (Ignition, MS SQL, Python), Qlik Sense plant analytics |
 
-### 🤖 `[COMPLETED]` Junior Software Developer — Avivo AI LLC *(Jun 2024 – Aug 2024)*
-- 🧠 Built & optimized **LLM** and **RAG pipelines** for contextual retrieval
-- 🗃️ Designed **vector databases** for semantic search at scale
-- ⚡ Integrated LLM backends with **React** frontend for real-time AI interaction
-
-### ⚙️ `[COMPLETED]` System Administrator — SUNFLEX Global Energy *(Nov 2023 – Mar 2024)*
-- 🌐 Managed website uptime, DNS configuration, and domain renewals
-- 🤖 Automated routine tasks to boost operational efficiency
-
-### 🚗 `[COMPLETED]` Summer Intern — Hyundai Motors India Limited *(Jun – Jul 2023)*
-- 🎫 Engineered **Automatic Ticket Management System** (Ignition · MS SQL · Python)
-- 📊 Built real-time analytics with **Qlik Sense** for manufacturing insights
-- 🏭 Hands-on PLC & LADAR exposure on plant floor
+<sub>**Education —** M.E. CSE, SSN College of Engineering (2025–27, CGPA 8.4) &nbsp;·&nbsp; B.Tech CSE (Data Science), Periyar Maniammai Institute of Science & Technology (2021–25, CGPA 7.9)</sub>
 
 ---
 
-## 🚀 RESEARCH MISSIONS
+### § 4 &nbsp; Methods
 
-### 🤖 `[IN PROGRESS]` Neural-SLAM-Zero *(Jan 2026 – Present)*
-> 🏅 *IFPS Institutional Research Grant @ SSN College of Engineering*
-```
-OBJECTIVE  : >40% reduction in Absolute Trajectory Error (ATE)
-HARDWARE   : Jetson Orin Nano  |  LATENCY: <15ms
-STACK      : ORB-SLAM3 · DINOv2 · GNN/Transformers · PyTorch · OpenCV
-STATUS     : 🟢 ACTIVE
-```
-
-### 🏥 `[PUBLISHED]` Multilingual Clinical Decision Support System *(Nov 2025)*
-> 📄 *IEEE Xplore — DOI: [10.1109/ISCS69371.2025.11385867](https://doi.org/10.1109/ISCS69371.2025.11385867)*
-```
-TARGETS    : Neonatal Sepsis · Marasmus · Tuberculosis
-MODEL      : BioBERT + Bi-LSTM Hybrid  |  MULTI-LANGUAGE
-STACK      : TensorFlow · Keras · Docker · Kubernetes
-STATUS     : ✅ PUBLISHED @ ISCS 2025, Delhi (IEEE)
-```
-
-### 🫁 `[PUBLISHED]` AI-Driven Patient Outcome Enhancement *(Mar 2025)*
-> 🏆 *Best Paper Award @ SRM | Taylor & Francis (in press)*
-```
-TARGETS    : Status Asthmaticus · Diabetic Ketoacidosis
-ACCURACY   : 90% severity-prediction
-STATUS     : ✅ BEST PAPER AWARD  |  📖 T&F IN PRESS
-```
-
-### 📰 `[PUBLISHED]` NewsImages: CLIP–FAISS + Diffusion Thumbnails
-> 📄 *[CEUR Workshop Proceedings — MediaEval 2025](https://2025.multimediaeval.com/paper46.pdf)*
-```
-STACK      : CLIP · FAISS · Diffusion Models
-STATUS     : ✅ PUBLISHED @ MediaEval 2025
-```
-
-### 🛡️ `[PUBLISHED]` U2R Attack Detection — CNN AlexNet vs. SVM *(Apr 2024)*
-> 📄 *IEEE SCOPUS — DOI: [10.1109/ACROSET62108.2024.10743609](https://doi.org/10.1109/ACROSET62108.2024.10743609)*
-```
-MODEL      : CNN AlexNet vs SVM
-STACK      : TensorFlow · Keras · Scikit-learn
-STATUS     : ✅ PUBLISHED @ ACROSET 2024 (IEEE SCOPUS)
-```
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c,js,r,bash&theme=dark" height="36"/> |
+| **Learning** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="36"/> &nbsp; ![HF](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![BioBERT](https://img.shields.io/badge/BioBERT-1e3a8a?style=flat-square) ![CLIP](https://img.shields.io/badge/CLIP%20%2B%20FAISS-412991?style=flat-square) ![Diffusion](https://img.shields.io/badge/Diffusion-0f766e?style=flat-square) |
+| **Robotics** | ![ORB-SLAM3](https://img.shields.io/badge/ORB--SLAM3-222222?style=flat-square) ![DINOv2](https://img.shields.io/badge/DINOv2-0b3d5c?style=flat-square) ![GNN](https://img.shields.io/badge/GNN%20%2F%20Transformers-7c3aed?style=flat-square) ![Jetson](https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) |
+| **Systems** | <img src="https://skillicons.dev/icons?i=fastapi,django,react,nodejs,docker,kubernetes,aws,linux,git&theme=dark" height="36"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" height="36"/> &nbsp; ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) |
 
 ---
 
-## 📄 PUBLICATIONS
+### § 5 &nbsp; Results
 
-| # | Title | Venue | Year |
-|---|-------|-------|------|
-| `[1]` | Multilingual AI-Driven CDSS: Hybrid BioBERT & Bi-LSTM | **IEEE Xplore** (ISCS 2025) | 2026 |
-| `[2]` | NewsImages: CLIP–FAISS + Diffusion-Based Generation | **CEUR** (MediaEval 2025) | 2025 |
-| `[3]` | U2R Attack Detection via CNN AlexNet vs. SVM | **IEEE SCOPUS** (ACROSET 2024) | 2024 |
-| `[4]` | AI-Driven Patient Outcome Enhancement | **Taylor & Francis** *(in press)* | 2025 |
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-```
-🥇  BEST PAPER AWARD ............. Next Gen Intl. Conference, SRM University (2025)
-🔬  RESEARCH GRANT ............... IFPS Institutional Funding, SSN (Neural-SLAM-Zero)
-🏅  HACKATHON WINNER ............. First Prize — CODEX Hackathon (Mar 2024)
-📜  IELTS ACADEMIC ............... Band 6.5 (Feb 2025)
-🏃  ALL-INDIA ATHLETICS .......... 110m Hurdles — State & South Zone Medalist (2022)
-```
+| | |
+|:--|:--|
+| 🏆 | **Best Paper Award** — Next Gen International Conference, SRM University (2025) |
+| 🔬 | **IFPS Institutional Research Grant** — SSN College of Engineering, for Neural-SLAM-Zero |
+| 🥇 | **First Prize** — CODEX Hackathon (2024) |
+| ☁️ | **AWS Certified Cloud Practitioner** · Data Analytics, Honeywell & ICT Academy |
 
 ---
 
-## 📜 CERTIFICATIONS
-
-<p align="left">
-  <img src="https://img.shields.io/badge/IELTS-Band%206.5-%23003087?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-Honeywell%20%26%20ICT%20Academy-%23FF6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-## 📊 BATTLE STATS
+### § 6 &nbsp; Experimental log
 
 <div align="center">
 
-| 🏅 ACHIEVEMENT | 🔢 COUNT | 🎖️ BADGE |
-|:---:|:---:|:---:|
-| 📄 Peer-Reviewed Papers | **4** | ![Papers](https://img.shields.io/badge/4%20Papers-Published-FFD700?style=flat-square&logo=google-scholar&logoColor=white) |
-| 🏆 Best Paper Awards | **1** | ![Award](https://img.shields.io/badge/Best%20Paper-SRM%20University-FF4500?style=flat-square) |
-| 🔬 Research Grants | **1** | ![Grant](https://img.shields.io/badge/IFPS-Research%20Funded-00C896?style=flat-square) |
-| 💼 Internships | **4** | ![Intern](https://img.shields.io/badge/4%20Internships-Completed-00D4FF?style=flat-square) |
-| 🎓 CGPA (M.E.) | **8.4** | ![CGPA](https://img.shields.io/badge/CGPA-8.4%20%2F%2010-blueviolet?style=flat-square) |
-| 🌐 IELTS Band | **6.5** | ![IELTS](https://img.shields.io/badge/IELTS-Band%206.5-0052CC?style=flat-square) |
-| 🏅 Hackathon Wins | **1** | ![Hack](https://img.shields.io/badge/CODEX-1st%20Place-FF6B35?style=flat-square) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=harshav111&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC"/>
+  <img src="https://streak-stats.demolab.com?user=harshav111&theme=default&hide_border=true&ring=0B3D5C&fire=0B3D5C&currStreakLabel=0B3D5C" alt="GitHub streak"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=harshav111&bg_color=0d1117&color=7dd3fc&line=0b84b8&point=e6edf3&area=true&area_color=0b3d5c&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshav111&bg_color=ffffff&color=0b3d5c&line=0b84b8&point=0b3d5c&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution graph" width="100%"/>
+</picture>
 
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IEEE%20Xplore-2%20Papers-%230068B5?style=for-the-badge&logo=ieee&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Taylor%20%26%20Francis-1%20Paper%20In%20Press-%23D00000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CEUR%20MediaEval-1%20Paper-%23FF9900?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-Advanced-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-Advanced-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-Proficient-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-Proficient-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
 
 ---
 
+<details>
+<summary><b>Appendix A</b> — away from the keyboard</summary>
+<br/>
+
+110 m hurdles · State and South Zone medalist (2022). It turns out clearing obstacles at speed is decent training for debugging SLAM.
+
+</details>
+
+<br/>
+
 <div align="center">
-  <h3>⚡ <i>Researching at the frontier of Clinical AI & Autonomous Systems</i> ⚡</h3>
-  <p>📧 harshavarthansami@gmail.com &nbsp;|&nbsp; 📍 Chennai, India &nbsp;|&nbsp; 📞 +91 97511 76026</p>
+<sub><b>Correspondence:</b> <a href="mailto:harshavarthansami@gmail.com">harshavarthansami@gmail.com</a> &nbsp;·&nbsp; <a href="https://in.linkedin.com/in/harshavarthan-s">LinkedIn</a> &nbsp;·&nbsp; Chennai, India</sub>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:003366&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d5c,100:0d1117&height=6" width="100%"/>
